@@ -1,6 +1,6 @@
 ## Hi there! I'm Liz! 👋
 
-I'm currently a senior at BYU studying Statistics and minoring in Business! My day mainly consists of going to classes, working as an R programming TA, and working on homework. I have experience with several data science tools such as R, Python, SQL, Excel VBA, and Tableau. 
+I'm currently a senior at BYU studying Statistics and minoring in Business! My day mainly consists of going to classes, working as an R programming TA, and working on homework. I have experience with several data science tools such as R, Python, SQL, Excel VBA, and Tableau. As a first-gen, non-native English speaker, I tend to explain difficult data science concepts in a fun, interesting, and simple way.
 
 - 🔭 I’m currently working on surviving college and finding an entry-level data analyst position.
 - 🤔 I’m looking for help with applying my skills to real-world problems.
